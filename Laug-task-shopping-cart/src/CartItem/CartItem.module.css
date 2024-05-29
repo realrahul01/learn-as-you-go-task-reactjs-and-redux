@@ -1,0 +1,14 @@
+.cadding{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-left: 10px;
+    column-gap: 30px;
+    row-gap: 30px;
+    margin-top: 40px;
+}
+ 
+.btns{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

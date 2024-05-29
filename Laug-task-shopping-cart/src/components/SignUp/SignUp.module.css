@@ -1,0 +1,41 @@
+.main{
+    width: 300px;
+    margin: auto;
+    margin-top: 40px;
+    box-shadow: 2px 5px 12px rgba(0, 0, 0, 1);
+    border-radius: 10px;
+}
+
+.main h2{
+    text-align: center;
+}
+
+.inp input{
+    width: 90%;
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+    border: 1px solid black;
+}
+.inp label{
+    margin-left: 10px;
+}
+.sign{
+    margin-left: 10px;
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 6px;
+    border: none;
+    outline: none;
+    background-color: brown;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.error{
+    color: red;
+    margin-left: 10px;
+}
